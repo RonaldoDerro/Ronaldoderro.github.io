@@ -1,0 +1,121 @@
+<!doctype html>
+
+<html lang = "en">  <!-- this document is in English -->
+
+<head>
+    <title> DerroDon Profile </title>
+	<link rel="icon" href="../Assets/favicon.jpg"/>
+	<meta name = "Author" content = "Ronaldo Derril"/>
+	<meta name = "Keyboard" content = "Individual Assignment #1"/>
+	<meta charset = "UTF-8"/>
+	<meta name = "viewport" content = "width=device-width initial scale = 1"/>
+	<!-- the pixel width of the viewport that you want the website to be rendered at -->
+	<!-- a 1:1 ratio between the device and the viewport size -->
+</head>
+
+<body>
+<header>
+<hr>
+	<hr/>
+	<h1 style="text-align:center;">
+	<nav>  <a href ="Home.html" target ='header'>Home | </a> 
+    <a href = "Profession.html">Profession | </a>	
+	<a href = "Personal.html">Personality | </a>
+	<a href = "Development.html"> Development| </a>
+	<a href = "StoryBoard.html">StoryBoard | </a>
+	<a href = "Reference.html">Reference | </a>
+	<b>
+	<hr/>
+	</b>
+	</nav>
+	</h1>
+
+</header>
+    
+	<h1>
+	<center>
+	    <b>
+	    <p>
+		    <u>WELCOME TO PERSONAL PAGE</u></p>		
+        </b>
+		
+	
+    </h1>
+	</center>
+
+   
+   
+
+   <h2>
+    <b>MOTTO
+	</b>
+	
+     <p>"Wear your failures as a badge of honor"
+	 by:Sundar Pichai
+	 </p>
+	 </h2>
+     
+	 
+		
+		</center> 
+		<table border = '1' cellpadding ='20' width ='100%' style ='background=color:sky blue'>
+		<tr>
+		  <td colspan ='3'><h1 style = 'text-align:center'> CHARACTER <h1> </td>
+		</tr>
+		<tr>
+		 <th>Traits / EMOTION </th>
+		 <th>Hobbies / Status</th>
+		 <th>Likes / Dislike<th>
+		 </tr>
+		 <tr>
+	        <td> <p>My one and only Trait is I think my nebble fingers</p> <p>and brain usages when it comes to Technology Accessibilities </p> </td>
+             <td>GAMER/VIDEO CREATOR</td>
+             <td>Lover of Animated Movies  </td>			 
+   		 </tr>
+		 <tr>
+		    <td><p>I'm a very emotional person but</p>
+                <p> As equally as cold as my Emotions</p>				
+			</td>
+		    <td><a href = 'https://www.youtube.com/channel/UCwqdN7E374xuJjNU4JmruEA'>HERE IS LINK TO YOUTUBE CHANNEL </a>  </td>
+            <td>My biggest dislike is to be used by someone</td>   	 
+		 </tr>
+		 <tr>
+		    <td>
+			</td>
+			<td colspan ='' rowspan =''><img src = '../Assets/Social.jpg' width = '260' height ='150' alt = 'SOCIALMEDIA'></img>		     
+			 
+			 FOLLOW MY SOCIAL PLATFORMS: <a href = 'https://www.facebook.com/Derro-104522451897947/?ref=page_internal'>FACEBOOK</a> 
+             <a href = 'https://www.instagram.com/derrodon_gaming/'>INSTAGRAM</a>			 
+			</td>
+		 </tr>
+		 </table>
+		  
+		
+		
+	 
+	  
+
+
+
+
+</body>
+<footer>
+	</center> <hr/>
+	<p><a href = '#top'>Go to Top of Page</a></p>
+	  <h4 style="text-align:left">
+        Copyright &copy; Ronaldo Derril,January 31,2022
+       
+	   </h4>		
+	    
+		sitemap
+	   
+	<hr/>
+
+ 
+   
+	 
+	   
+   
+ </footer>
+
+</html>
