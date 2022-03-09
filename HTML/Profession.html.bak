@@ -1,0 +1,123 @@
+<!doctype html>
+
+<html lang = "en">  <!-- this document is in English -->
+
+<head>
+    <title> DerroDon Profile </title>
+	<link rel="icon" href="../Assets/favicon.jpg"/>
+	<meta name = "Author" content = "Ronaldo Derril"/>
+	<meta name = "Keyboard" content = "Individual Assignment #1"/>
+	<meta charset = "UTF-8"/>
+	<meta name = "viewport" content = "width=device-width initial scale = 1"/>
+	<!-- the pixel width of the viewport that you want the website to be rendered at -->
+	<!-- a 1:1 ratio between the device and the viewport size -->
+</head>
+
+<body>
+   <header>
+    <hr>
+	<hr/>
+	<h1 style="text-align:center;">
+	<nav>  <a href ="Home.html" target ='header'>Home | </a> 
+    <a href = "Profession.html">Profession | </a>	
+	<a href = "Personal.html">Personality | </a>
+	<a href = "Development.html"> Development| </a>
+	<a href = "StoryBoard.html">StoryBoard | </a>
+	<a href = "Reference.html">Reference | </a>
+	<b>
+	<hr/>
+	</b>
+	</nav>
+	</h1>
+   
+   
+   
+    </header>
+	<h1>
+	<center>
+	    <b>
+	    <p><u>WELCOME TO PROFESSION PAGE</u></p>		
+        </b>
+		
+	</center>
+    </h1>
+
+   
+    
+	<p> Ronaldo Derril is an aspiring Software Engineering, who have Dreams in landing a Job in one of the FANG companies.
+    I'm currently studing a Bachelors of Science in Computing Degree at <a href = "https://www.utech.edu.jm/onlinelearning">UTECH Jamaica.</a>
+    The main motive in choosing this path is to be a part of this new era of <u>Evolutionary Technological Advancement</u>
+    and also the fact that I'm skilled at Computer Coding. 
+    <br/>	
+	</p>
+	 <h2 style = "text-align:center;"> BELOW IS A DIGITAL REPRSENTATION OF MY CURRENT ACHIEVEMENTS(resume').
+	 </h2>
+     <center>
+     <table border ="2" width = "90%" style = "background-color:skyblue">
+	 
+	 <hr>
+	  <p>RESUME'</p> 
+	 </hr>
+	    <hr>
+		<p>Ronaldo Derril</p>
+		<p>   Spring Field District</p>
+		 <p>  Guys Hill P.O.</p>
+		 <p>  St.Catherine</p>
+		 <p>  tel:(876)218-8197</p>
+		 <p>  CLICK image to Email<<>> 
+	<h3 style="text-align:left">
+	<a href = "mailto:derrildaviana@gmail.com">
+	<img src = "../Assets/Derro.jpg" width =200" height "100" alt = RonaldoDerril></img>
+	</a> 
+		 
+		 </p>
+		 
+		 
+		   </hr>
+		   
+		  <h3 style = "text-align:left"> <u>Objectives:</u>
+		  <p>Seeking to obtain a job witnin your company that will enable m to use my education and skills
+		  in away that is manually beneficial to both myself and
+		  my employer that may allow further growth 
+		  and experience. I have a quiet demeanor, I am respectful and can work in a culturally diverse environment.
+		  </p>
+		  </h3>
+		  <h4 style = "text-align:left"> <u>Education and Qualifications:</u>
+		  <p>Charlemont High School(2013-2020)</p>
+		  <p>Eight(8) CSEC Subjects: Mathematics,English A, Information Technology,Physics, Biology,Chemistry,Physical Education, Caribbean History </p>
+		  <p>Seven(7)CAPE Subjects: Computer Science(unit 1 & unit 2),Physics,Communication Studies,Sports(unit1 & unit 2),Caribbean Studies</p>
+		  <p>The University of Technology Jamaica W.I.(2020-Currently)</p>
+		  </h4>
+	      <h5 style = "text-align:left"> <u>Skills</u>
+		  <p>Computer Skills</p>
+		  <p>Team Leader</p>
+		  <p>Athletic</p>
+		  </h5>
+		  <h6 style ="text-align:left"><u>Personal Achievement:</u>
+		    Con-Current Honor Roll Student
+		  
+		  <p><u>Reference</u><p>
+		  References can be provided immediate upon request
+		  </h6
+		  
+	 </table>
+	 </body>
+    
+<footer>
+	</center> <hr/>
+	<p><a href = '#top'>Go to Top of Page</a></p>
+	  <h4 style="text-align:left">
+        Copyright &copy; Ronaldo Derril,January 31,2022
+       
+	   </h4>		
+	    
+		sitemap
+	   
+	<hr/>
+
+ 
+   
+	 
+	   
+   
+ </footer>
